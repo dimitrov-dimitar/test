@@ -1,0 +1,12 @@
+/* resets */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol,
+ul li,
+ol li {
+    list-style-type: none;
+}
